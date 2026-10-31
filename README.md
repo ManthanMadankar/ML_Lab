@@ -7,4 +7,5 @@
 - **Prac5.ipynb** → To implement K-Nearest Neighbor (KNN) algorithm for Classification and Regression.
 - **Prac6.ipynb** → To implement the Perceptron Learning Algorithm.
 - **Prac7.ipynb** → To implement the Naïve Bayes Classification algorithm using suitabledataset. 
-- **Prac8.ipynb** → Support vector machine algorithm using machine failure dataset.  
+- **Prac8.ipynb** → Support vector machine algorithm using machine failure dataset.
+- **Prac9.ipynb** → To implement K-Means Clustering and Hierarchical Clustering algorithms.
